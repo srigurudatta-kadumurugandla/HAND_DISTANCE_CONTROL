@@ -38,3 +38,7 @@ Steps to execute
 4. there is a feature which  implements the range of distance from where we can perform the actions if your in range it will display OK otherwise a blank screen will be appearing ,so make sure to stand within the range of camera.
 5. Use index finger to move the cursor around and bring both index and thumb finger for clicking action
 6.To terminate code press ‘q’key
+### py -3.11 -m venv venv311
+### venv311\Scripts\activate 
+### pip install opencv-python
+###  python main.py  
